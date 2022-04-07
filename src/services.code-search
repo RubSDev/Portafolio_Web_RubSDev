@@ -1,0 +1,9 @@
+# Query: services
+# ContextLines: 1
+
+1 result - 1 file
+
+src/App.jsx:
+  5  import Experience from "./components/experience/Experience";
+  6: import Certifications from "./components/certifications/Certifications";
+  7  import Portafolio from "./components/portafolio/Portafolio";
