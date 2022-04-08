@@ -48,10 +48,13 @@ const Testimonials = () => {
           </div>
           <h5 className="testimonial__name">Mirian García</h5>
           <small className="testimonial__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-            natus, atque libero quas consequuntur fuga sequi explicabo ut eaque
-            totam, facilis, minus eos labore reiciendis deleniti maiores vitae
-            esse. Vel Front-end Developer at SNGULAR Ciudad de México, México
+            "De Rubén puedo decir que es una exelente persona y un desarrollador
+            apasionado. Lo conozco hace tiempo, y puedo destacar de él que tiene
+            una gran actitud, es autodidacta y siempre dispuesto a colaborar con
+            su equipo para crecer juntos y lograr los objetivos y alcanzar
+            metas. Le recomiendo ampliamente."
+            <br />
+            <b> Front-end Developer at SNGULAR Ciudad de México, México</b>
           </small>
         </SwiperSlide>
         <SwiperSlide className="testimonial">
@@ -78,10 +81,8 @@ const Testimonials = () => {
           </div>
           <h5 className="testimonial__name">Naomi López</h5>
           <small className="testimonial__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-            natus, atque libero quas consequuntur fuga sequi explicabo ut eaque
-            totam, facilis, minus eos labore reiciendis deleniti maiores vitae
-            esse. Vel Front-end Developer at Kodemia Ciudad de México, México
+            <br />
+            <b>Front-end Developer at Kodemia Ciudad de México, México</b>
           </small>
         </SwiperSlide>
       </Swiper>
