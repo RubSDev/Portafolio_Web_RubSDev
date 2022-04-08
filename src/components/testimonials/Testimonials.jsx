@@ -32,7 +32,7 @@ const Testimonials = () => {
           </div>
           <h5 className="testimonial__name">Omar Ariza</h5>
           <small className="testimonial__review">
-            Rubén es un desarrollador muy proactivo que busca mejorar
+            "Rubén es un desarrollador muy proactivo que busca mejorar
             constantemente. Tiene una gran capacidad de autoaprendizaje y es un
             elemento muy valioso dentro de un equipo de trabajo. Disfruté mucho
             trabajar él." <br />
@@ -60,8 +60,8 @@ const Testimonials = () => {
           </div>
           <h5 className="testimonial__name">Roberto Garza</h5>
           <small className="testimonial__review">
-            " Rubs es un excelente programador, he trabajado en varios proyectos
-            con el y es excelente para el trabajo en equipo, desarrollar y
+            "Rubs es un excelente programador, he trabajado en varios proyectos
+            con él y es excelente para el trabajo en equipo, desarrollar y
             planeación UX/UI. Es una persona muy dedicada y siempre esta pegado
             al proyecto cuando hay trabajo, la persona que sea la afortunada de
             contratarlo habrá tomado una excelente decisión."
