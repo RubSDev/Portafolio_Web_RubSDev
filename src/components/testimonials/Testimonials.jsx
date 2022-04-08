@@ -32,11 +32,14 @@ const Testimonials = () => {
           </div>
           <h5 className="testimonial__name">Omar Ariza</h5>
           <small className="testimonial__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-            natus, atque libero quas consequuntur fuga sequi explicabo ut eaque
-            totam, facilis, minus eos labore reiciendis deleniti maiores vitae
-            esse. Vel Front-end Developer at Multiapoyo - Casa de Empeño Ciudad
-            de México, México
+            Rubén es un desarrollador muy proactivo que busca mejorar
+            constantemente. Tiene una gran capacidad de autoaprendizaje y es un
+            elemento muy valioso dentro de un equipo de trabajo. Disfruté mucho
+            trabajar él." <br />
+            <b>
+              Front-end Developer at Multiapoyo - Casa de Empeño Ciudad de
+              México, México
+            </b>
           </small>
         </SwiperSlide>
         <SwiperSlide className="testimonial">
