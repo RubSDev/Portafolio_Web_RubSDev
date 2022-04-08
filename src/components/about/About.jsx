@@ -26,8 +26,8 @@ const About = () => {
 
             <article className="about__card">
               <FiUsers className="about__icon" />
-              <h5>Experiencia</h5>
-              <small>+ de 1 año</small>
+              <h5>MERN</h5>
+              <small>Stack</small>
             </article>
 
             <article className="about__card">

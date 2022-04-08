@@ -39,7 +39,7 @@ const Certifications = () => {
             </h4>
             <p className="text__dataP">Expedición: Septiembre 2020</p>
             <div className="container__btnC">
-              <a href={CKRS} download className="btn">
+              <a href={CKRS} download className="btn__dowloadCK">
                 Descargar certificado
               </a>
             </div>
