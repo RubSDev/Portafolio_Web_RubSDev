@@ -67,8 +67,8 @@ const Testimonials = () => {
             contratarlo habrá tomado una excelente decisión."
             <br />
             <b>
-              Full-Stack Developer at Business Digitalization Consultant
-              Monterrey, Nuevo León, México
+              Full-Stack Developer at Enroute System Monterrey, Nuevo León,
+              México
             </b>
           </small>
         </SwiperSlide>
