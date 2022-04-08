@@ -57,11 +57,16 @@ const Testimonials = () => {
           </div>
           <h5 className="testimonial__name">Roberto Garza</h5>
           <small className="testimonial__review">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
-            natus, atque libero quas consequuntur fuga sequi explicabo ut eaque
-            totam, facilis, minus eos labore reiciendis deleniti maiores vitae
-            esse. Vel Full-Stack Developer and Business Digitalization
-            Consultant Monterrey, Nuevo León, México
+            " Rubs es un excelente programador, he trabajado en varios proyectos
+            con el y es excelente para el trabajo en equipo, desarrollar y
+            planeación UX/UI. Es una persona muy dedicada y siempre esta pegado
+            al proyecto cuando hay trabajo, la persona que sea la afortunada de
+            contratarlo habrá tomado una excelente decisión."
+            <br />
+            <b>
+              Full-Stack Developer at Business Digitalization Consultant
+              Monterrey, Nuevo León, México
+            </b>
           </small>
         </SwiperSlide>
         <SwiperSlide className="testimonial">
