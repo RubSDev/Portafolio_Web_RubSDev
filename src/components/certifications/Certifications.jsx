@@ -1,6 +1,5 @@
 import React from "react";
 import "./certifications.css";
-import CKRS from "../../Assets/ck__RubenS.pdf";
 
 const Certifications = () => {
   return (
@@ -16,9 +15,7 @@ const Certifications = () => {
             <h4 className="text__data">
               SCRUMstudy - Accreditation Body for Scrum and Agile
             </h4>
-            <p className="text__dataP">
-              Expedición: Marzo 2022 · ID de la credencial 905254
-            </p>
+            <p className="text__dataP">Expedición: Marzo 2022 · ID 905254</p>
             <div className="container__btnC">
               <a
                 href="https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RubenSomuano-905254.pdf"
@@ -39,8 +36,11 @@ const Certifications = () => {
             </h4>
             <p className="text__dataP">Expedición: Septiembre 2020</p>
             <div className="container__btnC">
-              <a href={CKRS} download className="btn__dowloadCK">
-                Descargar certificado
+              <a
+                href="https://primerbrs.s3.amazonaws.com/ck__RubenSpdf.pdf"
+                target="_blanck"
+              >
+                Mostrar certificado
               </a>
             </div>
           </div>
@@ -53,9 +53,7 @@ const Certifications = () => {
             <h4 className="text__data">
               SCRUMstudy - Accreditation Body for Scrum and Agile
             </h4>
-            <p className="text__dataP">
-              Expedición: Julio 2020 · ID de la credencial 794754
-            </p>
+            <p className="text__dataP">Expedición: Julio 2020 · ID 794754</p>
             <div className="container__btnC">
               <a
                 href="https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RubenArturoSomuanoGarcia-794753.pdf"
