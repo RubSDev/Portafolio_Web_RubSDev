@@ -4,7 +4,6 @@ import IMG1 from "../../Assets/chaanp.png";
 import IMG2 from "../../Assets/portfolio2.jpg";
 import IMG7 from "../../Assets/ aluxxp5.png";
 import IMG3 from "../../Assets/paziolip5.png";
-import IMG4 from "../../Assets/portfolio4.jpg";
 import IMG5 from "../../Assets/portfolio5.png";
 import IMG6 from "../../Assets/portfolio6.jpg";
 
