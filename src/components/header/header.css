@@ -3,6 +3,9 @@ header {
   padding-top: 5rem;
   overflow: hidden;
 }
+.btn {
+  width: 310px !important;
+}
 .header_container {
   text-align: center;
   height: 100%;

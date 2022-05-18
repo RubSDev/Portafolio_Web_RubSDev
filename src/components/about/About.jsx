@@ -43,9 +43,10 @@ const About = () => {
             mundo, trabajando sobre objetivos en conjunto utilizando la
             tecnología como medio.
           </p>
-          <a href="#contact" className="btn btn-primary">
+
+          <button href="#contact" className="btn btn-primary">
             🗣️ Contacto
-          </a>
+          </button>
         </div>
       </div>
     </section>

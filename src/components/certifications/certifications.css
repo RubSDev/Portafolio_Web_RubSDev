@@ -1,6 +1,7 @@
 .certifications__container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  margin-bottom: 32px !important;
 }
 
 .card__container {
@@ -69,12 +70,25 @@
 
 /* ========================= Media Queries (Small Devices) ==================== */
 
+@media screen and (max-width: 768px) {
+  .certifications__container {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 32px !important;
+  }
+}
+
+/* ========================= Media Queries (Small Devices) ==================== */
+
 @media screen and (max-width: 600px) {
   .certifications__container {
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
     align-items: center;
+    margin-bottom: 0px !important;
   }
   .card__container {
     background-color: var(--color-bg-variant);

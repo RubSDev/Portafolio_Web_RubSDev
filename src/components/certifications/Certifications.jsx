@@ -10,7 +10,29 @@ const Certifications = () => {
         <div className="card__container">
           <div className="container__infoCard">
             <div className="cont__title">
-              <h3>Scrum Fundamentals Certified (Update)</h3>
+              <h3>
+                Bootcamp Desarrollo Web Full-Stack Developer Jr.
+                &#40;Update&#41;
+              </h3>
+            </div>
+            <h4 className="text__data">
+              Kodemia e IBM Koder bootcamp cloud native development
+            </h4>
+            <p className="text__dataP">Expedición: Mayo 2022</p>
+            <div className="container__btnC">
+              <a
+                href="https://primerbrs.s3.amazonaws.com/Certificado_Rube%CC%81n+Somuano.pdf"
+                target="_blanck"
+              >
+                Mostrar certificado
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="card__container">
+          <div className="container__infoCard">
+            <div className="cont__title">
+              <h3>Scrum Fundamentals Certified &#40;Update&#41;</h3>
             </div>
             <h4 className="text__data">
               SCRUMstudy - Accreditation Body for Scrum and Agile
@@ -26,6 +48,8 @@ const Certifications = () => {
             </div>
           </div>
         </div>
+      </div>
+      <div className="container certifications__container">
         <div className="card__container">
           <div className="container__infoCard">
             <div className="cont__title">
