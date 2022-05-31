@@ -3,6 +3,8 @@ import "./contact.css";
 import { MdOutlineEmail } from "react-icons/md";
 import { RiMessengerLine } from "react-icons/ri";
 import { FaWhatsapp } from "react-icons/fa";
+import { BsLinkedin } from "react-icons/bs";
+import { ImGithub } from "react-icons/im";
 import { useRef } from "react";
 import emailjs from "emailjs-com";
 
@@ -36,23 +38,22 @@ const Contact = () => {
             </a>
           </article>
           <article className="contact__option">
-            <RiMessengerLine className="contact__option-icon" />
-            <h4>Messenger</h4>
-            <h5>Rubén A Somuano</h5>
-            <a href="https://m.me/Rasg83" target="_blank">
-              Envía un mensaje
-            </a>
-          </article>
-          <article className="contact__option">
-            <FaWhatsapp className="contact__option-icon" />
-            <h4>WhatsApp</h4>
-            <h5>55 32273663</h5>
-            <a
-              href="https://api.whatsapp.com/send?phone+525532273663"
-              target="_blank"
-            >
-              Envía un mensaje
-            </a>
+            <div className="header_socials_Contact">
+              <a
+                className="icon_socials_Contact"
+                href="https://www.linkedin.com/in/ruben-arturo-somuano-garc%C3%ADa-a43a03198/"
+                target="_blanck"
+              >
+                <BsLinkedin className="icon_socials_Contact" />
+              </a>
+              <a
+                className="icon_socials_Contact"
+                href="https://github.com/RubSDev"
+                target="_blanck"
+              >
+                <ImGithub className="icon_socials_Contact" />
+              </a>
+            </div>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

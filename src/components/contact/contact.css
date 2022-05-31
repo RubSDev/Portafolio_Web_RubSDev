@@ -71,3 +71,24 @@ textarea {
     width: var(--container-width-sm);
   }
 }
+
+.header_socials_Contact {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.8rem;
+justify-content: space-around;
+  bottom: 3rem;
+}
+
+.header_socials_Contact::after {
+  content: "";
+  width: 1px;
+  height: 3rem;
+  background-color: var(--color-primary);
+}
+.icon_socials_Contact {
+  width: 50px;
+  height: 25px;
+  margin: 0 !important;
+}
