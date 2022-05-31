@@ -21,7 +21,7 @@ const Certifications = () => {
             <p className="text__dataP">Expedición: Mayo 2022</p>
             <div className="container__btnC">
               <a
-                href="https://primerbrs.s3.amazonaws.com/Certificado_Rube%CC%81n+Somuano.pdf"
+                href="https://primerbrs.s3.amazonaws.com/Certificado_Rub%C3%A9n+Somuano.pdf"
                 target="_blanck"
               >
                 Mostrar certificado
