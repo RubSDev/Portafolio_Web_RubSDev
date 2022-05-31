@@ -24,7 +24,7 @@ const Experience = () => {
       <h2>Mi experiencia</h2>
       <div className="container experience__container">
         <div className="expenrience__frontend">
-          <h3>Frontend Develooment</h3>
+          <h3>Frontend Developer</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
@@ -93,7 +93,7 @@ const Experience = () => {
         </div>
         {/*   END OF FRONTEND*/}
         <div className="expenrience__backend">
-          <h3>Backend Develooment</h3>
+          <h3>Backend Developer </h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
