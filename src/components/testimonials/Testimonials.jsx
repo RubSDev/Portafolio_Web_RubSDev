@@ -36,10 +36,7 @@ const Testimonials = () => {
             constantemente. Tiene una gran capacidad de autoaprendizaje y es un
             elemento muy valioso dentro de un equipo de trabajo. Disfruté mucho
             trabajar él." <br />
-            <b>
-              Front-end Developer at Multiapoyo - Casa de Empeño Ciudad de
-              México, México
-            </b>
+            <b>Front-end Developer at SNGULAR Ciudad de México, México</b>
           </small>
         </SwiperSlide>
         <SwiperSlide className="testimonial">
