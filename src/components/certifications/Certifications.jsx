@@ -11,8 +11,7 @@ const Certifications = () => {
           <div className="container__infoCard">
             <div className="cont__title">
               <h3>
-                Bootcamp Desarrollo Web Full-Stack Developer Jr.
-                &#40;Update&#41;
+                Bootcamp Desarrollo Web Full-Stack Developer. &#40;Update&#41;
               </h3>
             </div>
             <h4 className="text__data">
@@ -53,7 +52,7 @@ const Certifications = () => {
         <div className="card__container">
           <div className="container__infoCard">
             <div className="cont__title">
-              <h3>Bootcamp Desarrollo Web Full-Stack Developer Jr.</h3>
+              <h3>Bootcamp Desarrollo Web Full-Stack Developer.</h3>
             </div>
             <h4 className="text__data">
               Kodemia e IBM Koder bootcamp cloud native development
