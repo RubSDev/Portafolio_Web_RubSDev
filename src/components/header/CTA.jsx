@@ -1,6 +1,6 @@
 import React from "react";
-import CVE from "../../Assets/CV_Ruben Somuano_ FullstackDeveloper_english.pdf";
-import CV from "../../Assets/CV_Ruben Somuano_ FullstackDeveloper.pdf";
+import CVE from "../../Assets/CV_RubenSomuano_ Front-end _Developer-English.pdf";
+import CV from "../../Assets/CV_RubenSomuano_ Front-end _Developer.pdf";
 
 const CTA = () => {
   return (
