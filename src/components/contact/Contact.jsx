@@ -32,8 +32,8 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>rub.somuano.g@gmail.com</h5>
-            <a href="mailto:rub.somuano.g@gmail.com" target="_blank">
+            <h5>rarturosomuanog@gmail.com</h5>
+            <a href="mailto:rarturosomuanog@gmail.com" target="_blank">
               Envía un mensaje
             </a>
           </article>

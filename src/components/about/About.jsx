@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../Assets/me-about.jpg";
+import ME from "../../Assets/me-about1.jpeg";
 import { AiOutlineLaptop } from "react-icons/ai";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
